@@ -12,7 +12,7 @@
         android:text="@string/Updater_text"
         android:textAllCaps="true"
         android:id="@+id/updater_button_id"
-        android:layout_weight=""/>
+        android:layout_weight="1"/>
 
     <Button
         android:layout_width="match_parent"

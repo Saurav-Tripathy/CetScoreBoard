@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CetScoreBoard</string>
+    <string name="Updater_text">Updater</string>
+    <string name="user_text">User</string>
 </resources>
